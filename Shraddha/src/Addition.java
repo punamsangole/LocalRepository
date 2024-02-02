@@ -5,6 +5,10 @@ public class Addition {
 		System.out.println("java project");
 		System.out.println("java project");
 		System.out.println("java project");
+		System.out.println("java project");
+		System.out.println("java project");
+		System.out.println("java project");
+		System.out.println("java project");
 		
 	}
 
